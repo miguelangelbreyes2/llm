@@ -1,4 +1,6 @@
 .env
+*.env
+asistente_openai/.env
 .venv/
 venv/
 __pycache__/
